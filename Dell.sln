@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dell", "Dell\Dell.csproj", "{ABA61F45-44A7-4A8F-8C39-6A97EDC35851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA61F45-44A7-4A8F-8C39-6A97EDC35851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA61F45-44A7-4A8F-8C39-6A97EDC35851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA61F45-44A7-4A8F-8C39-6A97EDC35851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA61F45-44A7-4A8F-8C39-6A97EDC35851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B72760F-CC57-4AF9-A6B1-0A7153401979}
+	EndGlobalSection
+EndGlobal
